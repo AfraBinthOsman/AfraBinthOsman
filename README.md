@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Afra Binth Osman,
 -  Data Science Enthusiast
 - 👀 I’m interested in HAR 
-- 🌱 I’m currently learning Big Data Analytics in Health DATA
+- 🌱 I’m currently learning Big Data Analytics in Health DATA at BUET,e-SRDLab
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
