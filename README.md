@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AfraBinthOsman
-- 👀 I’m interested in Data Science and Machine Learning 
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m @Afra Binth Osman,
+-  Data Science Enthusiast
+- 👀 I’m interested in HAR 
+- 🌱 I’m currently learning Big Data Analytics in Health DATA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
